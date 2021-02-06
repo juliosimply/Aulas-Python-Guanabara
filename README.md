@@ -8,4 +8,4 @@
  1. aula 005 -> instalaçao pycharm e qpython &nbsp;
  1. aula 006 -> tipos primitivos (int, float, str, bool(True e False case sensitive T,F)) &nbsp;
  1. aula 007 -> operadores (+, -, *, /, % (resto da divisao), ** (potencia), // (divisao inteira) &nbsp;
- 1. aula 007.aordem de precedencia (), **, *,/, //, %, +,- &nbsp;
+ 1. aula 007a-> ordem de precedencia (), **, *,/, //, %, +,- &nbsp;
