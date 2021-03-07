@@ -15,7 +15,7 @@ for i, v in enumerate(gols):
 
 ## solução Guanabara
 
-'''jogador = dict()
+jogador = dict()
 partidas = list()
 jogador['nome']= str(input('nome jogador'))
 tot = int(input(f'quantas partidas o {jogador["nome"]} jogou?'))
@@ -31,5 +31,5 @@ print('-='* 30)
 print(f'o jogador {jogador["nome"]} jogou {len(jogador["gols"])} partidas')
 for i, v in enumerate(jogador['gols']):
     print(f' => Na partida {i}, fez {v} gols')
-print(f' Foi um total de {jogador["total"]} gols')'''
+print(f' Foi um total de {jogador["total"]} gols')
 
